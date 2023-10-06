@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMeWithScanner",
+            "request": "launch",
+            "mainClass": "aula.terminal_e_argumentos.AboutMeWithScanner",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -35,8 +42,7 @@
             "name": "MinhaClasse",
             "request": "launch",
             "mainClass": "aula.terminal_e_argumentos.MinhaClasse",
-            "projectName": "java-anatomia-classes_e71b3c60",
-            
+            "projectName": "java-anatomia-classes_e71b3c60"
         }
     ]
 }
