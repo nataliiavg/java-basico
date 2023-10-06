@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "aula.metodos.sistemaSmartTv.Usuario",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "aula.terminal_e_argumentos.AboutMe",
+            "projectName": "java-anatomia-classes_e71b3c60",
+            "args": [
+                "Natalia",
+                "Graciano",
+                "32",
+                "1.72"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "aula.terminal_e_argumentos.MinhaClasse",
+            "projectName": "java-anatomia-classes_e71b3c60",
+            
+        }
+    ]
+}
