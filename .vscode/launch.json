@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.ExemploForEach",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "ExemploForComArrays",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.ExemploForComArrays",
