@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BoletimEscolar",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.BoletimEscolar",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.CaixaEletronico",
