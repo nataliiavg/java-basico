@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BoletimEscolarTernárioDois",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.BoletimEscolarTernárioDois",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEscolarTernario",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.BoletimEscolarTernario",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "BoletimEscolarComposto",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.BoletimEscolarComposto",
