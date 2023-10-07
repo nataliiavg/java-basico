@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.CaixaEletronico",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "AboutMeWithScanner",
             "request": "launch",
             "mainClass": "aula.terminal_e_argumentos.AboutMeWithScanner",
