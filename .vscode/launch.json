@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploBreakContinueDois",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.ExemploBreakContinueDois",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.ExemploBreakContinue",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "ExemploForEach",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.ExemploForEach",
