@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.ExemploDoWhile",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "ExemploWhile",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.ExemploWhile",
