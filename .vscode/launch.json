@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadoraComSwtich",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.PlanoOperadoraComSwtich",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.PlanoOperadora",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "SistemaDeMedida",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.SistemaDeMedida",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "BoletimEscolarTernárioDois",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.BoletimEscolarTernárioDois",
