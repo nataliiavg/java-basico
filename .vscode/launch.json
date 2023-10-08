@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.estruturas_execepcionais.FormatadorCepExemplo",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.estruturas_execepcionais.ExemploExcecao",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "aula.sistema_de_fluxo.estruturas_execepcionais.AboutMe",
+            "projectName": "java-anatomia-classes_e71b3c60"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "aula.sistema_de_fluxo.ExemploDoWhile",
